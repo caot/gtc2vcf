@@ -55,7 +55,7 @@ Installation
 
 Install basic tools (Debian/Ubuntu specific)
 ```
-sudo apt-get install wget liblzma-dev libbz2-dev libgsl0-dev gzip samtools unzip wine64 mono-devel libgdiplus
+sudo apt-get install wget  autoconf liblzma-dev libbz2-dev zlib1g-dev libgsl0-dev gzip samtools unzip wine64 mono-devel libgdiplus
 ```
 
 Preparation steps
